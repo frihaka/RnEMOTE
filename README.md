@@ -1,2 +1,2 @@
 # RnEMOTE
-R package to process and analyse nEMOTE data
+R pipeline to process and analyse nEMOTE data
